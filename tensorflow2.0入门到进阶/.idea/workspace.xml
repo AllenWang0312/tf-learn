@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49c26616-9d13-4de7-a0b5-9b3a54b0a16c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z7QffQljjemiBsLzDWRE8454cF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/py3.8/bin/python3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="2-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow2.0入门到进阶" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2-3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c26616-9d13-4de7-a0b5-9b3a54b0a16c" name="Default Changelist" comment="" />
+      <created>1584187756105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584187756105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="304" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584187828932">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="431" y="304" width="424" height="484" key="FileChooserDialogImpl/51.27.1869.1053@51.27.1869.1053" timestamp="1584187828932" />
+    <state width="1083" height="290" key="GridCell.Tab.0.bottom" timestamp="1584188304327">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1083" height="290" key="GridCell.Tab.0.bottom/51.27.1869.1053@51.27.1869.1053" timestamp="1584188304327" />
+    <state width="1083" height="290" key="GridCell.Tab.0.center" timestamp="1584188304326">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1083" height="290" key="GridCell.Tab.0.center/51.27.1869.1053@51.27.1869.1053" timestamp="1584188304326" />
+    <state width="1083" height="290" key="GridCell.Tab.0.left" timestamp="1584188304326">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1083" height="290" key="GridCell.Tab.0.left/51.27.1869.1053@51.27.1869.1053" timestamp="1584188304326" />
+    <state width="1083" height="290" key="GridCell.Tab.0.right" timestamp="1584188304326">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1083" height="290" key="GridCell.Tab.0.right/51.27.1869.1053@51.27.1869.1053" timestamp="1584188304326" />
+    <state x="135" y="181" key="SettingsEditor" timestamp="1584187870086">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="135" y="181" key="SettingsEditor/51.27.1869.1053@51.27.1869.1053" timestamp="1584187870086" />
+  </component>
+</project>
