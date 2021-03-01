@@ -9,10 +9,10 @@ import time
 import tensorflow as tf
 from tensorflow import keras
 
-# print(tf.__version__)
-# print(sys.version_info)
-# for module in mpl,np,pd,sklearn,tf,keras:
-#     print(module.__name__,module.__version__)
+print(tf.__version__)
+print(sys.version_info)
+for module in mpl, np, pd, sklearn, tf, keras:
+    print(module.__name__, module.__version__)
 # matplotlib 3.1.3
 # numpy 1.18.1
 # pandas 1.0.1
@@ -66,9 +66,9 @@ model.add(keras.layers.Dense(10, activation="softmax"))
 # relu: y = max(0, x)
 # softmax: 将向量变成概率分布
 
-model.compile(loss = "sparse_categorical_crossentropy",
-              optimizer = "sgd",
-              metrics = ["accuracy"])
+model.compile(loss="sparse_categorical_crossentropy",
+              optimizer="sgd",
+              metrics=["accuracy"])
 model.layers
 model.summary()
 history = model.fit(x_train, y_train, epochs=10, validation_data=(x_valid, y_valid))
